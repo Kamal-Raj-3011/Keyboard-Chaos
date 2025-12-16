@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Knewave:regular);
+@import url(https://fonts.googleapis.com/css?family=Iceberg:regular);
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Iceberg;
+    color: black;
+    word-spacing: 5px;
+    
+}
+
+#instuction-div{
+    height: 50vh;
+    background-color: rebeccapurple;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+#instuction-div::-webkit-scrollbar {
+    display: none;
+}
+
+.exit-overlay{
+    position: absolute;
+    right: 0;
+    width: 170px;
+    height: 10%;
+    background: white;
+    z-index: 5;
+}
