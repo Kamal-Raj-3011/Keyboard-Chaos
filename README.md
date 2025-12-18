@@ -4,12 +4,12 @@ Keyboard Chaos Is A Fun And Interactive JavaScript Project Where **Pressing Any 
 
 ---
 
-## 🚀 Live Demo
-[]
+##  Live Demo
+[ https://kamal-raj-3011.github.io/Keyboard-Chaos/ ]
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. The Site Listens For A Keyboard Key Press Using JavaScript Event Listeners.
 2. Whenever The User Presses A Key, The Script Selects A Random Emoji From A Predefined List.
@@ -27,7 +27,7 @@ Keyboard Chaos Is A Fun And Interactive JavaScript Project Where **Pressing Any 
  
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Kamal Raj N Y**
 Passionated Frontend Developer, UI/UX Designer And Provide Interactive Web Experiences.
