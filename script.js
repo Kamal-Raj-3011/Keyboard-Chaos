@@ -110,6 +110,7 @@ gsap.to("#startBtn", {
 
 // -----------------------------------------------------------------------------------------------
 
+// KEY DISABLE CODES
 document.addEventListener('contextmenu',
 function(event){
     event.preventDefault();
